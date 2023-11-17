@@ -1,3 +1,4 @@
-import square
+def main(number):
+    print(f"The square of this number is {number**2}")
+    
 
-print(f"The square of 5 is {square.square(5)}")
